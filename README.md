@@ -1,2 +1,4 @@
-# basic-calculator-using-switch-
+# basic-calculator
+author-Shashank
+<b>
 c language
